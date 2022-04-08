@@ -1,0 +1,25 @@
+Bucle for
+En el ambito de la programación utilizamos los bucles para ejecutar una sentencia o un conjunto 
+de sentencias de forma repetitiva, con el bucle for podemos lograr este comportamiento repitiendo
+un bloque de codigos un numero determinado de veces que es configurado en su definición, en ella 
+se declara e inicializa una variable de control generalmente en cero (0) y se va evaluando en 
+cada iteraciòn el valor de esta variable bajo una condicion, si se cumple la condición de ejecuta 
+el bloque de codigo y se incrementa dicha variable de lo contrario se sale del bucle. 
+for(let x =0 ; x<= 10; x++){
+    Bloque de codigo
+}
+
+
+Operadores logicos 
+Permite evaluar dos expresiones y su valor se determinar de acuerdo al operador utilizado
+
+&&
+Para el operador logico && se conoce con and cuando tenemos dos expresiones las mismas se avaluaran
+(expresion1 )&&(expresion2) solo si ambas son verdaderas el valor sera true pero si algunas de ellas
+es falso arrojara false
+||
+Para el operador logico || se conoce con or cuando tenemos dos expresiones las mismas se avaluaran
+(expresion1 )&&(expresion2) solo si cualquiera de las dos verdaderas el valor sera true 
+! 
+Para el operador logico ! se conoce con not el mismo devolvera el valor booleano opuesto de lo que se le pasa
+!(true) devolvera false
