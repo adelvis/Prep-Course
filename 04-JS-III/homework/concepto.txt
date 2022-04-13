@@ -1,0 +1,5 @@
+Array 
+Un  array permite almacenar una coleccion de elementos de cualquier tipo, bajo el nombre 
+de una variable para su uso posterior
+
+var Lista[1, 2, "Hola"];
