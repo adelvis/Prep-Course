@@ -1,0 +1,7 @@
+prototype
+
+Nos permite definir un metodo dentro de una clase de forma unica, o establecer ese metodo una sola vez, dando acceso  a cada objeto de esa clase a esos metodo.
+
+Constructors (de Clases)
+
+Es una funciòn que permite crear o definir una clase
