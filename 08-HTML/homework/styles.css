@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+}
+img{
+    width: 400px;
+}
+
+body{
+   
+  background-color: gainsboro;
+
+}
+li{
+    list-style: none;
+}
+
+.contenedor
+{
+   
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    text-align: center;
+   
+}
+
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:darkgray;
+    padding: 50px;
+    border: 1px solid dimgray;
+    margin: 0 auto;
+  
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
